@@ -28,7 +28,7 @@ Ignite Feed é uma aplicação de feed de rede social desenvolvida para aprender
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Reactjs]([https://www.npmjs.com/package/json-server](https://react.dev/learn))
+- [React.js](https://www.npmjs.com/package/json-server](https://react.dev/learn))
 - [CSS Modules](https://blog.taller.net.br/introducao-ao-css-modules/)
 
 ## :information_source: Como Usar
